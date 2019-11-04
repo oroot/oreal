@@ -6,12 +6,12 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://y7w6r2r8.stackpathcdn.com/oo.aspx?name=c946877&key=dfqnbrhgmkmkwplp&from=t777">点击进入媒体</a>
+      <a href="https://i6h9s5q9.stackpathcdn.com/oo.aspx?name=c946877&key=emuzfyuctjmydyxt&from=t777">点击进入媒体</a>
     </td>
   </tr>
   <tr>
     <td align=center>
-      <a href="https://y7w6r2r8.stackpathcdn.com/oo.aspx?name=r1014880&key=dfqnbrhgmkmkwplp&from=t7777">点击进入网站</a>
+      <a href="https://i6h9s5q9.stackpathcdn.com/oo.aspx?name=r1014880&key=emuzfyuctjmydyxt&from=t7777">点击进入网站</a>
     </td>
   </tr>
   <tr>
