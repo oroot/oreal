@@ -16,6 +16,6 @@
     </td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/oroot/oreal/master/oRealL.jpg"/></td>
+    <td align=center><img src="https://gitlab.com/ogate2/oo/raw/master/oReal.jpg"/></td>
   </tr>
 </table>
